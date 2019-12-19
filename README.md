@@ -2,5 +2,4 @@
 # Кан Вадим
 # Группа ИДб-19-05
 
-[ОТЧЕТ ПО ЛАБОРАТОРНЫМ РАБОТАМ "ИНТЕРНЕТ-ТЕХНОЛОГИИ"](https://github.com/Facyman/Internet/index.html)
-index.html
+[ОТЧЕТ ПО ЛАБОРАТОРНЫМ РАБОТАМ "ИНТЕРНЕТ-ТЕХНОЛОГИИ"](https://facyman.github.io/Internet/)
